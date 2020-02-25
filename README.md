@@ -4,7 +4,7 @@
 
 This tutorial shows you how to deploy a Java function to Azure Function using [Azure Function Plugin](https://github.com/jenkinsci/azure-function-plugin). Below are the major steps in this tutorial.
 
-- [Create Azure Function](#create-function)
+- [Create Azure Function](#create-function)..
 - [Prepare Jenkins server](#prepare)
 - [Create job](#create-job)
 - [Build and Deploy Java Funtion to Azure Function](#deploy)
