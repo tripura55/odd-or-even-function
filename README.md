@@ -11,7 +11,7 @@ This tutorial shows you how to deploy a Java function to Azure Function using [A
 - [Clean Up Resources](#clean-up)
 
 
-## <a name="create-function"></a>Create Azure Function
+## <a name="create-function"></a>Create Azure Function:
 
 The Azure Function plugin does not provision the function app if it doesn't already exist. So create an Azure Function with Java runtime stack by using [Azure portal](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function) or [Azure CLI](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function-azure-cli).
 
